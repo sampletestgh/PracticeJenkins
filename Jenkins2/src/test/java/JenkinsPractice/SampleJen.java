@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class SampleJen {
 	
-	
+	//pull
 	@Test
 	public void metod_contact()
 	{
